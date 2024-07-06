@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">music-game-trainer</string>
+    <string name="home">Home</string>
+    <string name="setting">setting</string>
+    <string name="retry">Retry</string>
+
+    <string name="not_found_file_in_dict">not found file: '%2$s' in dict %1$s</string>
+    <string name="content_is_empty">content is empty</string>
+
+    <string name="file">file</string>
+    <string name="open_config_file">open config file</string>
+    <string name="open_config_file_helper">this file is internal, please don't edit it</string>
+    <string name="open_config_file_not_supported">open config file is not supported on Android, now copy absolute path.</string>
+
+    <string name="select_import_type">select a import type</string>
+    <string name="select_on_local">from file</string>
+    <string name="select_on_video_site">form video site</string>
+
+    <string name="import_success">success to import video!</string>
+    <string name="delete_success">success to remove video!</string>
+
+    <string name="cant_read_file">Can't read File</string>
+
+    <string name="choose_a_speed">select a speed</string>
+
+    <string name="vlc_not_install_1">couldn't init video panel</string>
+    <string name="vlc_not_install_2">you need install VLC Player</string>
+</resources>

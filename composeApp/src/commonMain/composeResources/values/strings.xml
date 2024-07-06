@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">音乐游戏训练</string>
+    <string name="home">首页</string>
+    <string name="setting">设置</string>
+    <string name="retry">重试</string>
+
+    <string name="not_found_file_in_dict">在%1$s之中无法找到'%2$s'</string>
+    <string name="content_is_empty">内容为空</string>
+
+    <string name="file">文件</string>
+    <string name="open_config_file">打开存储文件夹</string>
+    <string name="open_config_file_helper">内部文件，谨慎操作。仅供导出用</string>
+    <string name="open_config_file_not_supported">安卓平台不支持打开文件管理器，已复制绝对路径。</string>
+
+    <string name="select_import_type">选择一个视频导入方式</string>
+    <string name="select_on_local">从本地选择</string>
+    <string name="select_on_video_site">从视频网站选择</string>
+
+    <string name="import_success">导入成功！</string>
+    <string name="delete_success">删除成功！</string>
+
+    <string name="cant_read_file">无法读取文件</string>
+
+    <string name="choose_a_speed">选择倍速</string>
+
+
+    <string name="vlc_not_install_1">功能不可用</string>
+    <string name="vlc_not_install_2">需要安装 VLC Player</string>
+</resources>
